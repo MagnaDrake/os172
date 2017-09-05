@@ -1,1 +1,3 @@
 #magnadrake
+
+We have to study Operating Systems because we need to at least understand how the inner workings of our daily technological aide works.
