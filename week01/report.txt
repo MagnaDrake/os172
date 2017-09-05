@@ -1,0 +1,2 @@
+OS Week 1 Task Report
+In this week's task we learned how to use Git and CLI within UI Badak Interface.We learned how to create directories and files, and pushing/pulling/committing changes.
