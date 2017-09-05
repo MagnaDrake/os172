@@ -20,3 +20,5 @@ drwxr-xr-x  2 yudha.satria StafCS 4096 Sep  5 13:07 week09
 drwxr-xr-x  2 yudha.satria StafCS 4096 Sep  5 13:07 week10
 drwxr-xr-x  2 yudha.satria StafCS 4096 Sep  5 13:06 xtra
 /home/fasilkom/mahasiswa/y/yudha.satria/os172/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 05 Sep 2017 at 13:52:19
