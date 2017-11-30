@@ -1,0 +1,8 @@
+Github Account : magnadrake
+URL Ulasan : https://os2017-yudhasatria.blogspot.com/2017/11/ulasan-1-secure-hashing-algorithm.html
+URL Video : https://youtu.be/DMtFhACPnTY
+Video Author : Computerphile
+Durasi: 10:21 (20 detik terakhir hanya gambar statis dengan link merujuk ke video lain)
+Pemetaan konten : week02
+Revisi Pertama : 30 November 2017
+Revisi Terakhir : 30 November 2017 
